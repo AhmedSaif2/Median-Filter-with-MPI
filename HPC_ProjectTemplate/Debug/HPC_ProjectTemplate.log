@@ -1,0 +1,8 @@
+﻿  Source.cpp
+F:\Ahmed\3rd year\Second Term\High Performance Computing\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(147,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+F:\Ahmed\3rd year\Second Term\High Performance Computing\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(148,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+F:\Ahmed\3rd year\Second Term\High Performance Computing\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(151,24): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+F:\Ahmed\3rd year\Second Term\High Performance Computing\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(153,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+F:\Ahmed\3rd year\Second Term\High Performance Computing\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(153,33): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> F:\Ahmed\3rd year\Second Term\High Performance Computing\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.exe
